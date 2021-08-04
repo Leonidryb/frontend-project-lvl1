@@ -7,4 +7,3 @@ const getUserName = () => {
 };
 
 export default getUserName;
-
