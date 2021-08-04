@@ -1,4 +1,4 @@
-name: Check lint
+name: linter-check
 
 on:
   push:
