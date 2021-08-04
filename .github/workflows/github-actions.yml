@@ -12,4 +12,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - run: make lint 
+      - name: Check out repository code
+        uses: actions/checkout@v2
+      - name: List files in the repository
+        run: |
+          ls ${{ github.workspace }}
+      - name: installing npm ci
+        run: make install
+      - name: run linter
+        run: make lint
