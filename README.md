@@ -8,3 +8,5 @@
 <a href="https://codeclimate.com/github/codeclimate/codeclimate/test_coverage"><img src="https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/test_coverage" /></a>
 
 [![asciicast](https://asciinema.org/a/wzHqfQsImr4kahkFcMWXUyoJD.png)](https://asciinema.org/a/wzHqfQsImr4kahkFcMWXUyoJD)
+
+[![asciicast](https://asciinema.org/a/QFSn88sumd2cbBj2huxZEkMjP.png)](https://asciinema.org/a/QFSn88sumd2cbBj2huxZEkMjP)
